@@ -63,3 +63,5 @@ GitHub는 Git 저장소를 온라인에서 호스팅하고 협업을 지원하�
 | 커밋 되돌림 | `git revert <hash>` | 이력 유지하며 되돌림 |
 | 커밋 취소 | `git reset --soft HEAD~1` | 커밋만 취소 |
 | 강제 초기화 | `git reset --hard HEAD~1` | 모든 변경 삭제 ⚠️ |
+
+## 
